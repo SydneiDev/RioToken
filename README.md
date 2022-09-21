@@ -10,7 +10,7 @@ Marque Mintable=> aqui vc adicionou a função de mintar token
 Passo 2 abrir https://remix.ethereum.org/# 
 Criar uma Workspace nova no remix=> na pasta Contracts Crear new file com o nome do seu token.
 
-passo 3
+Passo 3
 Abrir metamasc com a Rede que você vai criar o token.
 Escolher versão do compilador=> 
 compile o contrato, compile contract, contrado compilado agora faça o deploy que e a criação de seu token.
