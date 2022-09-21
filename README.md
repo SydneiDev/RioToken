@@ -1,11 +1,11 @@
 # RioToken
-Criação token simples 
+Criação de token simples 
 
 Criaçao Token Simples com função mint
 passo 1 abrir https://wizard.openzeppelin.com/#, 
 No lado esquedo da tela Nomeie seu token: Name meunome, Symbol: meusimbolo
 
-baixo em Features
+Abaixo em Features
 Marque Mintable=> aqui vc adicionou a função de mintar token
 Passo 2 abrir https://remix.ethereum.org/# 
 Criar uma Workspace nova no remix=> na pasta Contracts Crear new file com o nome do seu token.
