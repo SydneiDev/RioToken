@@ -24,7 +24,7 @@ Voltemos a Deploy e runs
 opção mint colo seu contrato de token criado em 'to" em amount coloque a quantidade de token a ser criado, pronto sues tokens foram mintados.
 Vá ate a metamasc e confira a quantidade deus tokens.
 
-IDE utilizadas
+IDES utilizadas
 ##https://remix.ethereum.org/
 ##https://wizard.openzeppelin.com/#
 ##metamask.io
